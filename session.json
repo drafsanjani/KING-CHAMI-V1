@@ -415,8 +415,8 @@
               },
               "BfBSCfzDQv+AyGyUIp7/4x1Si/+ycCX0yDHFkwIrnC43": {
                 "chainKey": {
-                  "counter": 3,
-                  "key": "71y8osFDs0ErCEcgxRPJw4AtEs8R/i4agaHOttBzrog="
+                  "counter": -1,
+                  "key": "G66Z4adybib7kxv7em5srEFaQJrTgqshfxuDOnX7MQs="
                 },
                 "chainType": 1,
                 "messageKeys": {}
